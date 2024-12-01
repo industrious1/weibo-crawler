@@ -1,22 +1,22 @@
 {
-    "user_id_list": "user_id_list.txt",
+    "user_id_list": ["5762999670"],
     "only_crawl_original": 0,
-    "since_date": 1,
+    "since_date": 2023-12-07,
     "start_page": 1,
     "write_mode": [
-        "csv"
+        "json"
     ],
-    "original_pic_download": 1,
+    "original_pic_download": 0,
     "retweet_pic_download": 0,
-    "original_video_download": 1,
+    "original_video_download": 0,
     "retweet_video_download": 0,
     "download_comment": 1,
-    "comment_max_download_count": 100,
+    "comment_max_download_count": 10000,
     "download_repost": 1,
-    "repost_max_download_count": 100,
+    "repost_max_download_count": 10000,
     "user_id_as_folder_name": 0,
     "remove_html_tag": 1,
-    "cookie": "your cookie",
+    "cookie": "_T_WM=d00ebd6ae5eec3342c8b4528d237fe1c; WEIBOCN_FROM=1110006030; SCF=AuPlgtCMZk-aie5TMxXOyzyE2YPCzgDNFvLL4Xl8givUIkXp7olK1p811xrEELFvPyFZ6WbEhwZSYX0gd0LqbRg.; SUB=_2A25KSOjHDeRhGeFG71sS8SjEwz6IHXVpJGQPrDV6PUJbktAbLU3QkW1NeXc_Dnd7sU-XhmG9Gx00cR_TKCEr80gY; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WWWxCeazLKBB8ynbmrw2NO55NHD95QN1hB4e02c1hnEWs4Dqc_zi--fiKyWi-8Wi--fiKyWiKLFi--NiK.XiKLsi--ci-zXi-iFi--NiKLWiKnXi--fi-z7iKysi--RiKyWiKL2i--4i-iWi-iF; SSOLoginState=1733073047; ALF=1735665047; XSRF-TOKEN=012ef7; MLOGIN=1; mweibo_short_token=4888e53489; M_WEIBOCN_PARAMS=luicode%3D20000174%26uicode%3D20000174",
     "mysql_config": {
         "host": "localhost",
         "port": 3306,
