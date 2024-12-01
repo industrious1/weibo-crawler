@@ -1,7 +1,7 @@
 {
     "user_id_list": ["5762999670"],
     "only_crawl_original": 0,
-    "since_date": 2023-12-07,
+    "since_date": "2023-12-07",
     "start_page": 1,
     "write_mode": [
         "json"
