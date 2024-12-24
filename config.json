@@ -1,5 +1,5 @@
 {
-    "user_id_list": "user_total_list_part1.txt"
+    "user_id_list": "user_total_list_part1.txt",
     "only_crawl_original": 0,
     "since_date": "2024-09-13",
     "write_mode": [
