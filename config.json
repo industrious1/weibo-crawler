@@ -1,8 +1,7 @@
 {
-    "user_id_list": ["5762999670"],
+    "user_id_list": user_total_list.txt,
     "only_crawl_original": 0,
-    "since_date": "2023-12-07",
-    "start_page": 1,
+    "since_date": "2024-09-13",
     "write_mode": [
         "json"
     ],
@@ -10,13 +9,13 @@
     "retweet_pic_download": 0,
     "original_video_download": 0,
     "retweet_video_download": 0,
-    "download_comment": 1,
+    "download_comment": 0,
     "comment_max_download_count": 10000,
-    "download_repost": 1,
+    "download_repost": 0,
     "repost_max_download_count": 10000,
-    "user_id_as_folder_name": 0,
+    "user_id_as_folder_name": 1,
     "remove_html_tag": 1,
-    "cookie": "_T_WM=d00ebd6ae5eec3342c8b4528d237fe1c; WEIBOCN_FROM=1110006030; SCF=AuPlgtCMZk-aie5TMxXOyzyE2YPCzgDNFvLL4Xl8givUIkXp7olK1p811xrEELFvPyFZ6WbEhwZSYX0gd0LqbRg.; SUB=_2A25KSOjHDeRhGeFG71sS8SjEwz6IHXVpJGQPrDV6PUJbktAbLU3QkW1NeXc_Dnd7sU-XhmG9Gx00cR_TKCEr80gY; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WWWxCeazLKBB8ynbmrw2NO55NHD95QN1hB4e02c1hnEWs4Dqc_zi--fiKyWi-8Wi--fiKyWiKLFi--NiK.XiKLsi--ci-zXi-iFi--NiKLWiKnXi--fi-z7iKysi--RiKyWiKL2i--4i-iWi-iF; SSOLoginState=1733073047; ALF=1735665047; XSRF-TOKEN=012ef7; MLOGIN=1; mweibo_short_token=4888e53489; M_WEIBOCN_PARAMS=luicode%3D20000174%26uicode%3D20000174",
+    "cookie": "SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WWWxCeazLKBB8ynbmrw2NO55JpX5KMhUgL.FoMRSh.0eKqR1hz2dJLoIXnLxK-L122LB-2LxK-L122L1-zLxKML1KBL1-qLxKqLBoBLB.zLxKML1-2L1hBLxK-LBo5L12qLxKnL122L1-BLxK.LB.2LB.zt; SCF=AuPlgtCMZk-aie5TMxXOyzyE2YPCzgDNFvLL4Xl8givUyiBUkIi0kNayKgAumYjKRk4B8ni9KpJhjnGZ9fvKEvI.; SUB=_2A25KZrosDeRhGeFG71sS8SjEwz6IHXVpHbPkrDV6PUJbktANLRnukW1NeXc_Dnyq4J9QCVOG1r7o00CRD3m_L9kG; SSOLoginState=1734527612; ALF=1737119612; WEIBOCN_FROM=1110006030; BAIDU_SSP_lcr=https://www.google.com/; _T_WM=32844637826; XSRF-TOKEN=1a2db3; MLOGIN=1; mweibo_short_token=64f784aff8; M_WEIBOCN_PARAMS=luicode%3D20000174%26uicode%3D20000174",
     "mysql_config": {
         "host": "localhost",
         "port": 3306,
